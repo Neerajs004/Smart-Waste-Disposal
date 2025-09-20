@@ -1,1 +1,1 @@
-An AI agent that takes the description of waste to dispose from the user and categorizes the waste into its corresponding type and provides the methods to dispose it. It also suggests recycling probabilities of the waste.
+An AI agent that takes the description of waste to dispose from the user and categorizes the waste into its corresponding type and provides the methods to dispose it. It also suggests recycling probabilities of the waste.A group project done during a 4-week project based learning on IBM-Skilbuild
